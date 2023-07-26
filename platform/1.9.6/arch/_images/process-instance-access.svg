@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="496px" preserveAspectRatio="none" style="width:1001px;height:496px;background:#FFFFFF;" version="1.1" viewBox="0 0 1001 496" width="1001px" zoomAndPan="magnify"><defs><filter height="300%" id="fnhsh2iyistcp" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#fnhsh2iyistcp)" height="363.8594" style="stroke:#A80036;stroke-width:1.0;" width="10" x="165" y="71.4297"/><rect fill="#FFFFFF" filter="url(#fnhsh2iyistcp)" height="41.6992" style="stroke:#A80036;stroke-width:1.0;" width="10" x="485" y="113.1289"/><rect fill="#FFFFFF" filter="url(#fnhsh2iyistcp)" height="56.832" style="stroke:#A80036;stroke-width:1.0;" width="10" x="485" y="211.6602"/><rect fill="#FFFFFF" filter="url(#fnhsh2iyistcp)" height="41.6992" style="stroke:#A80036;stroke-width:1.0;" width="10" x="485" y="310.1914"/><rect fill="#FFFFFF" filter="url(#fnhsh2iyistcp)" height="41.6992" style="stroke:#A80036;stroke-width:1.0;" width="10" x="485" y="393.5898"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="169.5" x2="169.5" y1="40.2969" y2="453.2891"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="489.5" x2="489.5" y1="40.2969" y2="453.2891"/><rect fill="#FEFECE" filter="url(#fnhsh2iyistcp)" height="30.2969" style="stroke:#A80036;stroke-width:1.5;" width="231" x="52.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="217" x="59.5" y="24.9951">AuthorizationStartEventListener</text><rect fill="#FEFECE" filter="url(#fnhsh2iyistcp)" height="30.2969" style="stroke:#A80036;stroke-width:1.5;" width="231" x="52.5" y="452.2891"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="217" x="59.5" y="472.2842">AuthorizationStartEventListener</text><rect fill="#FEFECE" filter="url(#fnhsh2iyistcp)" height="30.2969" style="stroke:#A80036;stroke-width:1.5;" width="115" x="430.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="437.5" y="24.9951">Camunda auth</text><rect fill="#FEFECE" filter="url(#fnhsh2iyistcp)" height="30.2969" style="stroke:#A80036;stroke-width:1.5;" width="115" x="430.5" y="452.2891"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="437.5" y="472.2842">Camunda auth</text><rect fill="#FFFFFF" filter="url(#fnhsh2iyistcp)" height="363.8594" style="stroke:#A80036;stroke-width:1.0;" width="10" x="165" y="71.4297"/><rect fill="#FFFFFF" filter="url(#fnhsh2iyistcp)" height="41.6992" style="stroke:#A80036;stroke-width:1.0;" width="10" x="485" y="113.1289"/><rect fill="#FFFFFF" filter="url(#fnhsh2iyistcp)" height="56.832" style="stroke:#A80036;stroke-width:1.0;" width="10" x="485" y="211.6602"/><rect fill="#FFFFFF" filter="url(#fnhsh2iyistcp)" height="41.6992" style="stroke:#A80036;stroke-width:1.0;" width="10" x="485" y="310.1914"/><rect fill="#FFFFFF" filter="url(#fnhsh2iyistcp)" height="41.6992" style="stroke:#A80036;stroke-width:1.0;" width="10" x="485" y="393.5898"/><polygon fill="#A80036" points="153,67.4297,163,71.4297,153,75.4297,157,71.4297" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="0" x2="159" y1="71.4297" y2="71.4297"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="146" x="7" y="66.3638">старт бізнес-процесу</text><polygon fill="#A80036" points="473,109.1289,483,113.1289,473,117.1289,477,113.1289" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="175" x2="479" y1="113.1289" y2="113.1289"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="291" x="182" y="108.063">отримати поточний об'єкт автентифікації</text><path d="M500,84.4297 L500,124.4297 L786,124.4297 L786,94.4297 L776,84.4297 L500,84.4297 " fill="#FBFB77" filter="url(#fnhsh2iyistcp)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M776,84.4297 L776,94.4297 L786,94.4297 L776,84.4297 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="265" x="506" y="101.4966">Нехай поточний об'єкт автентифікації</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="233" x="506" y="116.6294">буде для користувача з ім'ям user</text><polygon fill="#A80036" points="186,150.8281,176,154.8281,186,158.8281,182,154.8281" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="180" x2="489" y1="154.8281" y2="154.8281"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="220" x="192" y="149.7622">поточний об'єкт автентифікації</text><polygon fill="#A80036" points="473,207.6602,483,211.6602,473,215.6602,477,211.6602" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="175" x2="479" y1="211.6602" y2="211.6602"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="251" x="182" y="206.5942">заавтетифікуватися від імені адміну</text><path d="M500,167.8281 L500,237.8281 L872,237.8281 L872,177.8281 L862,167.8281 L500,167.8281 " fill="#FBFB77" filter="url(#fnhsh2iyistcp)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M862,167.8281 L862,177.8281 L872,177.8281 L862,167.8281 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="285" x="506" y="184.895">Користувач адмін конфігурується окремо</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="317" x="506" y="200.0278">camunda.admin-user-id - ідентифікатор адміна</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="351" x="506" y="215.1606">camunda.admin-group-id - група адміна яка повинна</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="266" x="506" y="230.2935">мати права на зміну прав користувачів</text><polygon fill="#A80036" points="186,264.4922,176,268.4922,186,272.4922,182,268.4922" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="180" x2="489" y1="268.4922" y2="268.4922"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="127" x="192" y="263.4263">заавтетифіковано</text><polygon fill="#A80036" points="473,306.1914,483,310.1914,473,314.1914,477,310.1914" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="175" x2="479" y1="310.1914" y2="310.1914"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="284" x="182" y="305.1255">надати необхідні права користувачу user</text><path d="M500,281.4922 L500,321.4922 L992,321.4922 L992,291.4922 L982,281.4922 L500,281.4922 " fill="#FBFB77" filter="url(#fnhsh2iyistcp)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M982,281.4922 L982,291.4922 L992,291.4922 L982,281.4922 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="471" x="506" y="298.5591">Надати права на читання та оновлення змінних екземпляру процесу</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="409" x="506" y="313.6919">та на читання історичних даних екземпляру бізнес-процесу</text><polygon fill="#A80036" points="186,347.8906,176,351.8906,186,355.8906,182,351.8906" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="180" x2="489" y1="351.8906" y2="351.8906"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="192" y="346.8247">права надано</text><polygon fill="#A80036" points="473,389.5898,483,393.5898,473,397.5898,477,393.5898" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="175" x2="479" y1="393.5898" y2="393.5898"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="250" x="182" y="388.5239">заавтетифікувати користувача user</text><path d="M500,364.8906 L500,404.8906 L948,404.8906 L948,374.8906 L938,364.8906 L500,364.8906 " fill="#FBFB77" filter="url(#fnhsh2iyistcp)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M938,364.8906 L938,374.8906 L948,374.8906 L938,364.8906 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="297" x="506" y="381.9575">Заавтетифікувати назад користувача user</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="427" x="506" y="397.0903">використовуючи об'єкт автентифікації отриманий на початку</text><polygon fill="#A80036" points="181,431.2891,171,435.2891,181,439.2891,177,435.2891" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="175" x2="489" y1="435.2891" y2="435.2891"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="127" x="187" y="430.2231">заавтетифіковано</text><!--MD5=[619f24df0be98af3b79cb93200681eae]
+@startuml
+participant AuthorizationStartEventListener as listener order 10
+participant "Camunda auth" as auth order 20
+
+-> listener : старт бізнес-процесу
+activate listener
+
+listener -> auth : отримати поточний об'єкт автентифікації
+note right
+Нехай поточний об'єкт автентифікації
+буде для користувача з ім'ям user
+end note
+activate auth
+listener <- - auth : поточний об'єкт автентифікації
+deactivate auth
+
+listener -> auth : заавтетифікуватися від імені адміну
+activate auth
+note right
+Користувач адмін конфігурується окремо
+camunda.admin-user-id - ідентифікатор адміна
+camunda.admin-group-id - група адміна яка повинна
+мати права на зміну прав користувачів
+end note
+
+listener <- - auth : заавтетифіковано
+deactivate auth
+
+listener -> auth : надати необхідні права користувачу user
+activate auth
+note right
+Надати права на читання та оновлення змінних екземпляру процесу
+та на читання історичних даних екземпляру бізнес-процесу
+end note
+listener <- - auth : права надано
+deactivate auth
+
+listener -> auth : заавтетифікувати користувача user
+activate auth
+note right
+Заавтетифікувати назад користувача user
+використовуючи об'єкт автентифікації отриманий на початку
+end note
+listener <- - auth : заавтетифіковано
+deactivate auth
+deactivate listener
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 12:40:07 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

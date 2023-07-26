@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="579px" preserveAspectRatio="none" style="width:896px;height:579px;background:#FFFFFF;" version="1.1" viewBox="0 0 896 579" width="896px" zoomAndPan="magnify"><defs><filter height="300%" id="f1g3xlmzogda5g" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[86c54be01837bb6f046fe6ef5ab441ba]
+cluster Citus_O--><path d="M574.5,275.5 C574.5,265.5 732,265.5 732,265.5 C732,265.5 889.5,265.5 889.5,275.5 L889.5,562 C889.5,572 732,572 732,572 C732,572 574.5,572 574.5,562 L574.5,275.5 " fill="#FFFFFF" filter="url(#f1g3xlmzogda5g)" style="stroke:#000000;stroke-width:1.5;"/><path d="M574.5,275.5 C574.5,285.5 732,285.5 732,285.5 C732,285.5 889.5,285.5 889.5,275.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="117" x="673.5" y="300.4951">Operational DB</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="712" y="316.792">Citus</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="0" x="734.5" y="333.0889"/><!--MD5=[fc8ddcb4c0dbbf59976a77abc487ad99]
+cluster Citus_R--><path d="M104.5,274 C104.5,264 266.5,264 266.5,264 C266.5,264 428.5,264 428.5,274 L428.5,562 C428.5,572 266.5,572 266.5,572 C266.5,572 104.5,572 104.5,562 L104.5,274 " fill="#FFFFFF" filter="url(#f1g3xlmzogda5g)" style="stroke:#000000;stroke-width:1.5;"/><path d="M104.5,274 C104.5,284 266.5,284 266.5,284 C266.5,284 428.5,284 428.5,274 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="101" x="216" y="298.9951">Analytical DB</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="246.5" y="315.292">Citus</text><!--MD5=[11efbd64a1b543166838177f52d69a75]
+entity Perm_Check--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="46.2969" style="stroke:#383838;stroke-width:1.5;" width="164" x="709.5" y="347.5"/><rect fill="#F8F8F8" height="10" style="stroke:#383838;stroke-width:1.5;" width="15" x="853.5" y="352.5"/><rect fill="#F8F8F8" height="2" style="stroke:#383838;stroke-width:1.5;" width="4" x="851.5" y="354.5"/><rect fill="#F8F8F8" height="2" style="stroke:#383838;stroke-width:1.5;" width="4" x="851.5" y="358.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="124" x="724.5" y="380.4951">Permission Check</text><!--MD5=[679c23e1a6c6f7ee338188387ec29f93]
+entity Roles--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="39.2969" style="stroke:#000000;stroke-width:1.5;" width="69" x="704" y="510"/><polygon fill="#F8F8F8" points="756,515,756,529,768,529,768,521,762,515,756,515" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="762" x2="762" y1="515" y2="521"/><line style="stroke:#000000;stroke-width:1.5;" x1="768" x2="762" y1="521" y2="521"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="39" x="714" y="535.9951">Roles</text><path d="M808,509.5 L808,525.5 L773.16,529.5 L808,533.5 L808,549.7656 A0,0 0 0 0 808,549.7656 L873,549.7656 A0,0 0 0 0 873,549.7656 L873,519.5 L863,509.5 L808,509.5 A0,0 0 0 0 808,509.5 " fill="#EBEBEB" filter="url(#f1g3xlmzogda5g)" style="stroke:#383838;stroke-width:1.0;"/><path d="M863,509.5 L863,519.5 L873,519.5 L863,509.5 " fill="#EBEBEB" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="44" x="814" y="526.5669">access</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29" x="814" y="541.6997">map</text><!--MD5=[1c8c80827bb88e46e7485df8626deee7]
+entity Tables_O--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="48.5938" style="stroke:#383838;stroke-width:1.5;" width="62" x="594.5" y="507"/><rect fill="#F8F8F8" height="48.5938" style="stroke:#383838;stroke-width:1.5;" width="62" x="590.5" y="503"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="606.5" y="523.9951">Data</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="598.5" y="540.292">Tables</text><!--MD5=[74718e3e8eeaa3547f977c5748b3cccb]
+entity Routine--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="39.2969" style="stroke:#000000;stroke-width:1.5;" width="84" x="590.5" y="351"/><polygon fill="#F8F8F8" points="657.5,356,657.5,370,669.5,370,669.5,362,663.5,356,657.5,356" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="663.5" x2="663.5" y1="356" y2="362"/><line style="stroke:#000000;stroke-width:1.5;" x1="669.5" x2="663.5" y1="362" y2="362"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="600.5" y="376.9951">Routine</text><!--MD5=[472305f2ea71ac98d4cfcf327adf6c51]
+entity DB_User--><ellipse cx="149.5" cy="339.5" fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" rx="8" ry="8" style="stroke:#383838;stroke-width:1.5;"/><path d="M149.5,347.5 L149.5,374.5 M136.5,355.5 L162.5,355.5 M149.5,374.5 L136.5,389.5 M149.5,374.5 L162.5,389.5 " fill="none" filter="url(#f1g3xlmzogda5g)" style="stroke:#383838;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="121" y="407.9951">DB User</text><!--MD5=[f04d1115a9404fce8f0faf89e2d614ba]
+entity Views--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="32.2969" style="stroke:#383838;stroke-width:1.5;" width="56" x="217.5" y="356.5"/><rect fill="#F8F8F8" height="32.2969" style="stroke:#383838;stroke-width:1.5;" width="56" x="213.5" y="352.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="221.5" y="373.4951">Views</text><path d="M309,350.5 L309,366.5 L273.66,370.5 L309,374.5 L309,390.7656 A0,0 0 0 0 309,390.7656 L412,390.7656 A0,0 0 0 0 412,390.7656 L412,360.5 L402,350.5 L309,350.5 A0,0 0 0 0 309,350.5 " fill="#EBEBEB" filter="url(#f1g3xlmzogda5g)" style="stroke:#383838;stroke-width:1.0;"/><path d="M402,350.5 L402,360.5 L412,360.5 L402,350.5 " fill="#EBEBEB" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="82" x="315" y="367.5669">limits access</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="71" x="315" y="382.6997">to the data</text><!--MD5=[97a1ea038840110c9fece2e6f9b99a27]
+entity Tables_R--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="48.5938" style="stroke:#383838;stroke-width:1.5;" width="62" x="316.5" y="507"/><rect fill="#F8F8F8" height="48.5938" style="stroke:#383838;stroke-width:1.5;" width="62" x="312.5" y="503"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="328.5" y="523.9951">Data</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="320.5" y="540.292">Tables</text><!--MD5=[7fa68f16b4e2f9967b3218c9d572a58a]
+entity Redash--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="73" x="7" y="142.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="17" y="165.4951">Redash</text><!--MD5=[fee662a292a0353a69bd162820bae93b]
+entity User--><ellipse cx="214.5" cy="129.5" fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" rx="8" ry="8" style="stroke:#383838;stroke-width:1.5;"/><path d="M214.5,137.5 L214.5,164.5 M201.5,145.5 L227.5,145.5 M214.5,164.5 L201.5,179.5 M214.5,164.5 L227.5,179.5 " fill="none" filter="url(#f1g3xlmzogda5g)" style="stroke:#383838;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="198.5" y="197.9951">User</text><!--MD5=[49cbbb1648246ecd0e2d56eda0c19f08]
+entity Gateway--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="79" x="379" y="142.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="389" y="165.4951">Gateway</text><!--MD5=[f59096bc2ff3be6f6fa1c143cdbcc80f]
+entity Lowcode--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="82" x="515.5" y="142.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="525.5" y="165.4951">Lowcode</text><!--MD5=[a1985b34e0f14ee9b41705141e548ce3]
+entity Keycloak--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="81" x="240" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="250" y="29.9951">Keycloak</text><!--MD5=[77ea33fe0217be71272b1f4ac0f1d259]
+entity Datafactory--><rect fill="#F8F8F8" filter="url(#f1g3xlmzogda5g)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="98" x="654.5" y="142.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="664.5" y="165.4951">Datafactory</text><!--MD5=[b61afa64175a2613a4357dafd225d644]
+link User to Gateway--><path d="M230.58,166.12 C245.56,171.03 268.61,177.79 289.25,180.5 C317.53,184.22 349.18,179.47 374.08,173.67 " fill="none" id="User-to-Gateway" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="378.97,172.5,369.2842,170.7151,374.1086,173.669,371.1547,178.4934,378.97,172.5" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29" x="290.25" y="176.5669">auth</text><!--MD5=[b61afa64175a2613a4357dafd225d644]
+link User to Gateway--><path d="M235.63,160.5 C268.03,160.5 330.73,160.5 373.6,160.5 " fill="none" id="User-Gateway" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="378.72,160.5,369.72,156.5,373.72,160.5,369.72,164.5,378.72,160.5" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="230.51,160.5,239.51,164.5,235.51,160.5,239.51,156.5,230.51,160.5" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="112" x="248.75" y="153.5669">request/response</text><!--MD5=[a5ccf8acfc266437450f2175314d66c2]
+link Redash to User--><path d="M85.46,160.5 C119.68,160.5 166.59,160.5 193.4,160.5 " fill="none" id="Redash-User" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="198.49,160.5,189.49,156.5,193.49,160.5,189.49,164.5,198.49,160.5" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="80.18,160.5,89.18,164.5,85.18,160.5,89.18,156.5,80.18,160.5" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="82" x="98.25" y="153.5669">data request</text><!--MD5=[4d250e971f82d0e1068dd8fc19df0917]
+reverse link Keycloak to Redash--><path d="M234.9,34.33 C203.88,41.38 162.77,53.52 130.5,73 C99.87,91.49 71.97,122.97 56.41,142.42 " fill="none" id="Keycloak-backto-Redash" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="239.79,33.24,230.1312,31.3145,234.9121,34.3382,231.8884,39.1191,239.79,33.24" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="70" x="131.5" y="86.0669">credentials</text><!--MD5=[4830f3d61fdb0bb3fa56eec33fc1d109]
+link Keycloak to Redash--><path d="M263.78,43.17 C249.51,57.12 227.97,76.6 206.5,90 C167.7,114.22 118.98,133.75 84.96,145.87 " fill="none" id="Keycloak-to-Redash" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="80.05,147.6,89.8693,148.3626,84.7626,145.9292,87.196,140.8225,80.05,147.6" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29" x="228.5" y="86.0669">auth</text><!--MD5=[324e2a290a5dd883ad4e26db6a2ab411]
+link Redash to DB_User--><path d="M54.66,183.39 C71.71,216.85 104.62,281.43 126.83,325.01 " fill="none" id="Redash-DB_User" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="129.21,329.68,128.6874,319.845,126.9397,325.2251,121.5596,323.4774,129.21,329.68" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="52.17,178.52,52.7054,188.3543,54.4461,182.9719,59.8284,184.7126,52.17,178.52" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="36" x="88.5" y="244.0669">query</text><!--MD5=[f741196cce46965d360cd662e7dbfe92]
+link DB_User to Views--><path d="M183.37,370.5 C191.65,370.5 199.93,370.5 208.22,370.5 " fill="none" id="DB_User-Views" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="213.37,370.5,204.37,366.5,208.37,370.5,204.37,374.5,213.37,370.5" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="178.14,370.5,187.14,374.5,183.14,370.5,187.14,366.5,178.14,370.5" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[9737e2cf8d369366fb4197b851b6da6d]
+reverse link Keycloak to Gateway--><path d="M295.66,47.41 C305.27,60.34 318.33,76.81 331.5,90 C351.04,109.56 375.89,128.95 394.03,142.26 " fill="none" id="Keycloak-backto-Gateway" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="292.54,43.17,294.6632,52.7873,295.5079,47.1938,301.1014,48.0386,292.54,43.17" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29" x="332.5" y="86.0669">auth</text><!--MD5=[bb61fdfc7d69d4420434f0b9424a1740]
+reverse link Gateway to Keycloak--><path d="M410.58,137.68 C402.79,118.67 389.32,91.35 370.5,73 C356.62,59.46 338.05,48.88 321.38,41.22 " fill="none" id="Gateway-backto-Keycloak" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="412.44,142.32,412.8114,132.4781,410.583,137.6776,405.3836,135.4493,412.44,142.32" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="384.5" y="86.0669">JWT</text><!--MD5=[fab61ed1b1d74a44787296e3b05b69f7]
+link Gateway to Lowcode--><path d="M463.14,160.5 C478.12,160.5 494.85,160.5 509.97,160.5 " fill="none" id="Gateway-Lowcode" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="515.03,160.5,506.03,156.5,510.03,160.5,506.03,164.5,515.03,160.5" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="458.05,160.5,467.05,164.5,463.05,160.5,467.05,156.5,458.05,160.5" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="21" x="476.25" y="153.5669">JWT</text><!--MD5=[f3b9de7535acb2fadc3ac45946d6599a]
+link Lowcode to Datafactory--><path d="M602.86,160.5 C617.6,160.5 634.04,160.5 649.28,160.5 " fill="none" id="Lowcode-Datafactory" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="654.4,160.5,645.4,156.5,649.4,160.5,645.4,164.5,654.4,160.5" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="597.84,160.5,606.84,164.5,602.84,160.5,606.84,156.5,597.84,160.5" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="20" x="616" y="153.5669">API</text><!--MD5=[9a25697f739fd0fc4fce470e15031c8c]
+link Datafactory to Perm_Check--><path d="M712.66,183.14 C728.85,221.42 762.5,300.94 780.14,342.65 " fill="none" id="Datafactory-Perm_Check" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="782.11,347.3,782.2672,337.4524,780.1525,342.6991,774.9058,340.5844,782.11,347.3" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="710.7,178.52,710.5428,188.3676,712.6575,183.1209,717.9042,185.2356,710.7,178.52" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="31" x="740.5" y="244.0669">JDBC</text><!--MD5=[f7eae67519a5894717e799f2d8ba8acf]
+link Perm_Check to Roles--><path d="M782.36,398.59 C772.21,428.65 755.99,476.68 746.38,505.15 " fill="none" id="Perm_Check-Roles" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="744.78,509.88,751.4536,502.6369,746.3826,505.1438,743.8757,500.0727,744.78,509.88" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="784.02,393.66,777.353,400.9092,782.4217,398.3977,784.9333,403.4664,784.02,393.66" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="70" x="767.5" y="454.0669">permission</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="784" y="469.1997">check</text><!--MD5=[09bbc51266ca26faa631afd4c917a44f]
+link Datafactory to Tables_O--><path d="M664.21,180.95 C616.89,204.78 542.8,243.51 535.5,256 C500.72,315.47 513.74,345.64 535.5,411 C546.84,445.06 572.34,477.21 592.99,499.24 " fill="none" id="Datafactory-Tables_O" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="596.52,502.96,593.227,493.678,593.0785,499.3329,587.4236,499.1844,596.52,502.96" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="668.7,178.69,658.8625,179.1624,664.2336,180.9375,662.4585,186.3086,668.7,178.69" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="36" x="536.5" y="375.0669">query</text><!--MD5=[ecef4cb5490e86a0a258d7febdf325d6]
+link Datafactory to Routine--><path d="M697.69,178.52 C685.06,215.54 655.06,303.42 640.58,345.82 " fill="none" id="Datafactory-to-Routine" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="638.9,350.75,645.5932,343.525,640.5154,346.0181,638.0222,340.9403,638.9,350.75" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="679.5" y="244.0669">DML</text><!--MD5=[40eb4c88a2be8559ea3d8befc63088d0]
+link Routine to Tables_O--><path d="M631.43,390.13 C629.91,416.62 627.11,465.5 625.28,497.51 " fill="none" id="Routine-to-Tables_O" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="624.97,502.88,629.4784,494.1236,625.2561,497.8882,621.4915,493.6659,624.97,502.88" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="628.5" y="461.5669">DML</text><!--MD5=[7f7d6dbb87320256b2ed34e50df8f24e]
+link Tables_O to Tables_R--><path d="M590.16,537.51 C569.63,542.03 542.7,547.22 518.5,549.5 C488.41,552.34 480.59,552.34 450.5,549.5 C428.19,547.39 403.56,542.82 383.77,538.58 " fill="none" id="Tables_O-to-Tables_R" style="stroke:#383838;stroke-width:2.0;"/><polygon fill="#383838" points="378.84,537.51,386.7905,543.3229,383.7269,538.5674,388.4824,535.5038,378.84,537.51" style="stroke:#383838;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="66" x="451.5" y="545.5669">replication</text><!--MD5=[ccd8392b85a0ca92742138e3421a8a8e]
+reverse link Views to Tables_R--><path d="M257.47,393 C276.08,421.65 308.97,472.27 328.85,502.87 " fill="none" id="Views-backto-Tables_R" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="254.61,388.6,256.1739,398.3239,257.3405,392.7886,262.8757,393.9551,254.61,388.6" style="stroke:#383838;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="29" x="307.5" y="461.5669">data</text><!--MD5=[83f45a98a7ca7262aa674d5b6a5f11a7]
+@startuml
+skinparam monochrome true
+'skinparam backgroundColor #aaaaaa
+'skinparam linetype ortho
+'skinparam linetype polyline
+
+rectangle Redash
+Actor User
+rectangle Gateway
+'note left of Gateway: sdsdfsdf
+rectangle Lowcode
+rectangle Keycloak
+'note left of Keycloak: RedashGroups\nattribute
+'note right of Keycloak: roles
+
+rectangle Datafactory
+'note left of Redash: RedashGroups from Keycloak\nassigns user to security group
+database "Operational DB\nCitus\n" as Citus_O{
+    component "Permission Check" as Perm_Check
+    artifact Roles
+    note right of Roles: access\nmap
+    collections "  Data\nTables" as Tables_O
+    artifact Routine
+}
+database "Analytical DB\nCitus" as Citus_R{
+    Actor "DB User" as DB_User
+    collections Views
+    note right: limits access\nto the data
+    collections "  Data\nTables" as Tables_R
+}
+
+User -> Gateway: auth
+User <-> Gateway: request/response
+Redash <-> User: data request
+Redash -up-> Keycloak: credentials
+Redash <-up- Keycloak: auth
+Redash <- -> DB_User: query
+DB_User <-> Views
+Gateway -up-> Keycloak: auth
+Gateway <- Keycloak: JWT
+Gateway <-> Lowcode: JWT
+Lowcode <-> Datafactory: API
+Datafactory <- -> Perm_Check: JDBC
+Perm_Check <- -> Roles: permission\ncheck
+Datafactory <- -> Tables_O: query
+Datafactory - -> Routine: DML
+Routine - -> Tables_O: DML
+Tables_O => Tables_R: replication
+'Citus_O => Citus_R: replication
+Tables_R -up-> Views: data
+@enduml
+
+@startuml
+skinparam monochrome true
+
+rectangle Redash
+Actor User
+rectangle Gateway
+rectangle Lowcode
+rectangle Keycloak
+
+rectangle Datafactory
+database "Operational DB\nCitus\n" as Citus_O{
+    component "Permission Check" as Perm_Check
+    artifact Roles
+    note right of Roles: access\nmap
+    collections "  Data\nTables" as Tables_O
+    artifact Routine
+}
+database "Analytical DB\nCitus" as Citus_R{
+    Actor "DB User" as DB_User
+    collections Views
+    note right: limits access\nto the data
+    collections "  Data\nTables" as Tables_R
+}
+
+User -> Gateway: auth
+User <-> Gateway: request/response
+Redash <-> User: data request
+Redash -up-> Keycloak: credentials
+Redash <-up- Keycloak: auth
+Redash <- -> DB_User: query
+DB_User <-> Views
+Gateway -up-> Keycloak: auth
+Gateway <- Keycloak: JWT
+Gateway <-> Lowcode: JWT
+Lowcode <-> Datafactory: API
+Datafactory <- -> Perm_Check: JDBC
+Perm_Check <- -> Roles: permission\ncheck
+Datafactory <- -> Tables_O: query
+Datafactory - -> Routine: DML
+Routine - -> Tables_O: DML
+Tables_O => Tables_R: replication
+Tables_R -up-> Views: data
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 12:40:07 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

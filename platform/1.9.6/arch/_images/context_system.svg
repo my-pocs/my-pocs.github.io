@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="62px" preserveAspectRatio="none" style="width:248px;height:62px;background:#FFFFFF;" version="1.1" viewBox="0 0 248 62" width="248px" zoomAndPan="magnify"><defs/><g><rect fill="#FEFECE" height="40.5938" rx="5" ry="5" style="stroke:#FEFECE;stroke-width:1.5;" width="226" x="10" y="10"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="15" y="24.9951">action</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="67" y="24.9951">SIGN_BREACH / NO_JWT</text><line style="stroke:#A80036;stroke-width:1.0;" x1="62" x2="62" y1="10" y2="30.2969"/><line style="stroke:#A80036;stroke-width:1.0;" x1="10" x2="236" y1="30.2969" y2="30.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="15" y="45.292">step</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="12" x="67" y="45.292">...</text><line style="stroke:#A80036;stroke-width:1.0;" x1="62" x2="62" y1="30.2969" y2="50.5938"/><rect fill="none" height="40.5938" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="226" x="10" y="10"/><!--MD5=[4f2f33754fe9dc03ecdc6c04b596b002]
+@startjson
+{
+    "action": "SIGN_BREACH / NO_JWT",
+    "step": "..."
+}
+@endjson
+
+PlantUML version 1.2021.7(Sun May 23 12:40:07 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

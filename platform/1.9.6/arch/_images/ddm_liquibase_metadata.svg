@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="117px" preserveAspectRatio="none" style="width:356px;height:117px;background:#FFFFFF;" version="1.1" viewBox="0 0 356 117" width="356px" zoomAndPan="magnify"><defs><filter height="300%" id="f1hxulfvx4izym" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#F8F8F8" filter="url(#f1hxulfvx4izym)" height="96.1719" style="stroke:#383838;stroke-width:1.5;" width="335" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="156" x="96.5" y="20.1387">ddm_liquibase_metadata</text><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="342" y1="24.9688" y2="24.9688"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="61" x="19" y="36.251">metadata_id</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="119" x="97" y="36.251">ідентифікатор запису</text><line style="stroke:#383838;stroke-width:1.0;" x1="92" x2="92" y1="24.9688" y2="40.6094"/><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="342" y1="40.6094" y2="40.6094"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="62" x="18.5" y="51.8916">change_type</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="239" x="97" y="51.8916">назва типу змін (приклад: "searchCondition")</text><line style="stroke:#383838;stroke-width:1.0;" x1="92" x2="92" y1="40.6094" y2="56.25"/><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="342" y1="56.25" y2="56.25"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="68" x="15.5" y="67.5322">change_name</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="240" x="97" y="67.5322">конкретна назві зміни (приклад: "public_lab")</text><line style="stroke:#383838;stroke-width:1.0;" x1="92" x2="92" y1="56.25" y2="71.8906"/><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="342" y1="71.8906" y2="71.8906"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="75" x="12" y="83.1729">attribute_name</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="123" x="97" y="83.1729">назва ключа атрибуту</text><line style="stroke:#383838;stroke-width:1.0;" x1="92" x2="92" y1="71.8906" y2="87.5313"/><line style="stroke:#383838;stroke-width:1.0;" x1="7" x2="342" y1="87.5313" y2="87.5313"/><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="73" x="13" y="98.8135">attribute_value</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="106" x="97" y="98.8135">значення атрибуту</text><line style="stroke:#383838;stroke-width:1.0;" x1="92" x2="92" y1="87.5313" y2="103.1719"/><!--MD5=[b4ad9f6ec7dfacac626d6b67c73a9b6d]
+@startuml
+skinparam monochrome true
+
+map ddm_liquibase_metadata {
+ metadata_id => ідентифікатор запису
+ change_type => назва типу змін (приклад: "searchCondition")
+ change_name => конкретна назві зміни (приклад: "public_lab")
+ attribute_name => назва ключа атрибуту
+ attribute_value => значення атрибуту
+}
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 12:40:07 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

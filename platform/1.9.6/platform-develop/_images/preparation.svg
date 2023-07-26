@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="108px" preserveAspectRatio="none" style="width:1151px;height:108px;background:#FFFFFF;" version="1.1" viewBox="0 0 1151 108" width="1151px" zoomAndPan="magnify"><defs><filter height="300%" id="f1gnuqfwxa3vku" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="165" x="486.5" y="16.708">Підготовчі кроки</text><!--MD5=[726268969146d721968a8ff1cfceb44d]
+entity checkout--><rect fill="#F8F8F8" filter="url(#f1gnuqfwxa3vku)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="87" x="7" y="44.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="17" y="67.4482">Checkout</text><!--MD5=[53f319e2a5ea2d45f4840b112f813303]
+entity getChanges--><rect fill="#F8F8F8" filter="url(#f1gnuqfwxa3vku)" height="68.8906" style="stroke:#000000;stroke-width:1.5;" width="138" x="154" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="164" y="50.9482">Зчитування змін</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="164" y="67.2451">у репозиторії</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="164" y="83.542">реєстру</text><!--MD5=[6bce54b2baba0fa8b44af4150ea5b26e]
+entity validation--><rect fill="#F8F8F8" filter="url(#f1gnuqfwxa3vku)" height="68.8906" style="stroke:#000000;stroke-width:1.5;" width="140" x="352" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="362" y="50.9482">Валідація</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="362" y="67.2451">конфігураційних</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="362" y="83.542">файлів</text><!--MD5=[463fa6ce3d00da797e8ff80a4d9c8378]
+entity shutdown--><rect fill="#F8F8F8" filter="url(#f1gnuqfwxa3vku)" height="68.8906" style="stroke:#000000;stroke-width:1.5;" width="99" x="552" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="562" y="50.9482">Штатне</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="562" y="67.2451">вимкнення</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="562" y="83.542">сервісів</text><!--MD5=[4fc509e7cb4a1e84b57c31bc7e09752e]
+entity backup--><rect fill="#F8F8F8" filter="url(#f1gnuqfwxa3vku)" height="68.8906" style="stroke:#000000;stroke-width:1.5;" width="100" x="711" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="721" y="50.9482">Створення</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="721" y="67.2451">резервної</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="721" y="83.542">копії</text><!--MD5=[814d11d1ad6173ebca66899d6789787e]
+entity redashRoles--><rect fill="#F8F8F8" filter="url(#f1gnuqfwxa3vku)" height="68.8906" style="stroke:#000000;stroke-width:1.5;" width="104" x="871" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="881" y="50.9482">Створення</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="881" y="67.2451">ролей БД</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="881" y="83.542">для Redash</text><!--MD5=[edda8c7f690515c5169e02f22e239616]
+entity redashSnippets--><rect fill="#F8F8F8" filter="url(#f1gnuqfwxa3vku)" height="68.8906" style="stroke:#000000;stroke-width:1.5;" width="104" x="1035" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="1045" y="50.9482">Створення</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="1045" y="67.2451">сніппетів</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="1045" y="83.542">для Redash</text><!--MD5=[72d0095ca4ec89b38b423ebf410a9e41]
+link checkout to getChanges--><path d="M94.08,62.4531 C110.58,62.4531 129.96,62.4531 148.56,62.4531 " fill="none" id="checkout-to-getChanges" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="153.79,62.4531,144.79,58.4531,148.79,62.4531,144.79,66.4531,153.79,62.4531" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[e17003d631822f0a60e633708b40dfaa]
+link getChanges to validation--><path d="M292.07,62.4531 C309.76,62.4531 328.9,62.4531 346.88,62.4531 " fill="none" id="getChanges-to-validation" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="351.92,62.4531,342.92,58.4531,346.92,62.4531,342.92,66.4531,351.92,62.4531" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[babb5ae1667ffb1d224025be0d17832e]
+link validation to shutdown--><path d="M492.13,62.4531 C510.22,62.4531 529.45,62.4531 546.61,62.4531 " fill="none" id="validation-to-shutdown" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="551.86,62.4531,542.86,58.4531,546.86,62.4531,542.86,66.4531,551.86,62.4531" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[a4995292f55e646b9771b00ab1f344a5]
+link shutdown to backup--><path d="M651.04,62.4531 C668.24,62.4531 687.71,62.4531 705.38,62.4531 " fill="none" id="shutdown-to-backup" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="710.81,62.4531,701.81,58.4531,705.81,62.4531,701.81,66.4531,710.81,62.4531" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[e891656d60068bea4f7ad1eb1923335a]
+link backup to redashRoles--><path d="M811.31,62.4531 C828.45,62.4531 847.81,62.4531 865.49,62.4531 " fill="none" id="backup-to-redashRoles" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="870.92,62.4531,861.92,58.4531,865.92,62.4531,861.92,66.4531,870.92,62.4531" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[db84abd3b98510f58af4c09bd32e5d7a]
+link redashRoles to redashSnippets--><path d="M975.26,62.4531 C992.48,62.4531 1011.78,62.4531 1029.39,62.4531 " fill="none" id="redashRoles-to-redashSnippets" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="1034.8,62.4531,1025.8,58.4531,1029.8,62.4531,1025.8,66.4531,1034.8,62.4531" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[149df731e1972933efa0b04bcba50923]
+@startuml
+title Підготовчі кроки
+skinparam monochrome true
+
+left to right direction
+
+rectangle "Checkout" as checkout
+rectangle "Зчитування змін\nу репозиторії\nреєстру" as getChanges
+rectangle "Валідація\nконфігураційних\nфайлів" as validation
+rectangle "Штатне\nвимкнення\nсервісів" as shutdown
+rectangle "Створення\nрезервної\nкопії" as backup
+rectangle "Створення\nролей БД\nдля Redash" as redashRoles
+rectangle "Створення\nсніппетів\nдля Redash" as redashSnippets
+
+checkout - -> getChanges
+getChanges - -> validation
+validation - -> shutdown
+shutdown - -> backup
+backup - -> redashRoles
+redashRoles - -> redashSnippets
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 12:40:07 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

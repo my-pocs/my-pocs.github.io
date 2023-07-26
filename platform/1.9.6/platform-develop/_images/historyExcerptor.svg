@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="108px" preserveAspectRatio="none" style="width:718px;height:108px;background:#FFFFFF;" version="1.1" viewBox="0 0 718 108" width="718px" zoomAndPan="magnify"><defs><filter height="300%" id="f4yki0tzju8of" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="380" x="162.75" y="16.708">Генерування витягів історії змін даних</text><!--MD5=[40c8af627f64e4f684daa3d29a575976]
+entity initRegistry--><rect fill="#F8F8F8" filter="url(#f4yki0tzju8of)" height="68.8906" style="stroke:#000000;stroke-width:1.5;" width="112" x="7" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="17" y="50.9482">Ініціалізація</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="17" y="67.2451">компонентів</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="17" y="83.542">реєстру</text><!--MD5=[59948c9841a27b6b892dafae8c508e49]
+entity dataValidation--><rect fill="#F8F8F8" filter="url(#f4yki0tzju8of)" height="52.5938" style="stroke:#000000;stroke-width:1.5;" width="136" x="154" y="35.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="164" y="58.9482">Валідація</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="164" y="75.2451">введених даних</text><!--MD5=[726268969146d721968a8ff1cfceb44d]
+entity checkout--><rect fill="#F8F8F8" filter="url(#f4yki0tzju8of)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="85" x="325.5" y="44.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="335.5" y="67.4482">checkout</text><!--MD5=[90e8f87de1839973651e388e92e3ed6f]
+entity createExcerptorJob--><rect fill="#F8F8F8" filter="url(#f4yki0tzju8of)" height="52.5938" style="stroke:#000000;stroke-width:1.5;" width="113" x="445.5" y="35.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="80" x="455.5" y="58.9482">Створення</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="455.5" y="75.2451">OpenShift job</text><!--MD5=[33587fd14741f287638802a0a9bd3e3a]
+entity getHistoryReport--><rect fill="#F8F8F8" filter="url(#f4yki0tzju8of)" height="52.5938" style="stroke:#000000;stroke-width:1.5;" width="113" x="593.5" y="35.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="603.5" y="58.9482">Генерування</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="603.5" y="75.2451">витягу</text><!--MD5=[c5169f4dcb23935aaf5f7631d220e74d]
+link initRegistry to dataValidation--><path d="M119.21,62.4531 C129.01,62.4531 138.81,62.4531 148.61,62.4531 " fill="none" id="initRegistry-to-dataValidation" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="153.74,62.4531,144.74,58.4531,148.74,62.4531,144.74,66.4531,153.74,62.4531" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[6382ec45fbfaebf19ae7b20d1425d1a7]
+link dataValidation to checkout--><path d="M290.15,62.4531 C300.17,62.4531 310.18,62.4531 320.19,62.4531 " fill="none" id="dataValidation-to-checkout" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="325.43,62.4531,316.43,58.4531,320.43,62.4531,316.43,66.4531,325.43,62.4531" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[0cfa647634c395732b919cd7f268ff5f]
+link checkout to createExcerptorJob--><path d="M410.66,62.4531 C420.48,62.4531 430.31,62.4531 440.13,62.4531 " fill="none" id="checkout-to-createExcerptorJob" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="445.27,62.4531,436.27,58.4531,440.27,62.4531,436.27,66.4531,445.27,62.4531" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[d036b1d0ea1923b5a5b20e7ad32529a0]
+link createExcerptorJob to getHistoryReport--><path d="M558.66,62.4531 C568.48,62.4531 578.31,62.4531 588.13,62.4531 " fill="none" id="createExcerptorJob-to-getHistoryReport" style="stroke:#383838;stroke-width:1.0;"/><polygon fill="#383838" points="593.27,62.4531,584.27,58.4531,588.27,62.4531,584.27,66.4531,593.27,62.4531" style="stroke:#383838;stroke-width:1.0;"/><!--MD5=[1a6eddca449b730d72fa295e2ab038a4]
+@startuml
+title Генерування витягів історії змін даних
+skinparam monochrome true
+
+rectangle "Ініціалізація\nкомпонентів\nреєстру" as initRegistry
+rectangle "Валідація\nвведених даних" as dataValidation
+rectangle "checkout" as checkout
+rectangle "Створення\nOpenShift job" as createExcerptorJob
+rectangle "Генерування\nвитягу" as getHistoryReport
+
+initRegistry -> dataValidation
+dataValidation -> checkout
+checkout -> createExcerptorJob
+createExcerptorJob -> getHistoryReport
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 12:40:07 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

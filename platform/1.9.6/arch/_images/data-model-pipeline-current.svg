@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1458.3333px" preserveAspectRatio="none" style="width:593px;height:1458px;background:#00000000;" version="1.1" viewBox="0 0 593 1458" width="593.75px" zoomAndPan="magnify"><defs><linearGradient id="gci7avktt5ru00" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F5F5F5"/><stop offset="100%" stop-color="#C2C2C2"/></linearGradient><linearGradient id="gci7avktt5ru01" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#33B2E2"/><stop offset="100%" stop-color="#009FDB"/></linearGradient></defs><g><ellipse cx="291.1458" cy="20.8333" fill="#0568AE" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect fill="#FF0000" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="80.2083" x="251.0417" y="132.2103"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="269.7917" y="162.5631">ERROR</text><polygon fill="url(#gci7avktt5ru00)" points="222.3958,52.0833,359.8958,52.0833,372.3958,74.9674,359.8958,97.8516,222.3958,97.8516,209.8958,74.9674,222.3958,52.0833" style="stroke:#C2C2C2;stroke-width:1.5625;"/><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="21.875" x="303.6458" y="117.7877">yes</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="119.7917" x="230.7292" y="72.0194">Validate version</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="239.0625" y="86.5702">OldVer&gt;=NewVer</text><rect fill="url(#gci7avktt5ru01)" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="176.0417" x="203.125" y="228.0111"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="138.5417" x="221.875" y="258.3639">Update DB schema</text><rect fill="url(#gci7avktt5ru01)" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="408.3333" x="86.9792" y="300.8952"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="370.8333" x="105.7292" y="331.248">Update Version to {NewVer} in registry metadata</text><line style="stroke:#009FDB;stroke-width:1.5625;" x1="136.4583" x2="424.4792" y1="373.7793" y2="373.7793"/><rect fill="url(#gci7avktt5ru01)" height="124.8047" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="250" x="11.4583" y="450.8626"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="85.4167" x="30.2083" y="481.2154">Create new</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="191.6667" x="30.2083" y="495.7662">projects/codebases/repos</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="0" x="34.375" y="510.317"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="203.125" x="30.2083" y="524.8678">{RegName}-rest-api-{NewVer}</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="212.5" x="30.2083" y="539.4185">{RegName}-kafka-api-{NewVer}</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="192.7083" x="30.2083" y="553.9693">{RegName}-model-{NewVer}</text><rect fill="url(#gci7avktt5ru01)" height="95.7031" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="246.875" x="301.0417" y="460.1888"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="85.4167" x="319.7917" y="490.5416">Create new</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="166.6667" x="319.7917" y="505.0924">project/codebase/repo</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="0" x="323.9583" y="519.6431"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="209.375" x="319.7917" y="534.1939">{RegName}-soap-api-{NewVer}</text><polygon fill="url(#gci7avktt5ru00)" points="306.7708,394.6126,542.1875,394.6126,554.6875,410.2214,542.1875,425.8301,306.7708,425.8301,294.2708,410.2214,306.7708,394.6126" style="stroke:#C2C2C2;stroke-width:1.5625;"/><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="21.875" x="436.9792" y="445.7662">yes</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="218.75" x="315.1042" y="414.5487">Exposed Search Conditions exist?</text><polygon fill="url(#gci7avktt5ru00)" points="424.4792,596.5007,436.9792,609.0007,424.4792,621.5007,411.9792,609.0007,424.4792,596.5007" style="stroke:#C2C2C2;stroke-width:1.5625;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="136.4583" x2="424.4792" y1="642.334" y2="642.334"/><rect fill="url(#gci7avktt5ru01)" height="81.1523" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="356.25" x="113.0208" y="663.1673"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="318.75" x="131.7708" y="693.5201">Create new build pipelines for each project</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="0" x="135.9375" y="708.0709"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="103.125" x="131.7708" y="722.6217">{project-name}</text><rect fill="url(#gci7avktt5ru01)" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="258.3333" x="161.9792" y="765.153"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="220.8333" x="180.7292" y="795.5058">Generate code for all projects</text><rect fill="url(#gci7avktt5ru01)" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="213.5417" x="184.375" y="838.0371"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="176.0417" x="203.125" y="868.3899">Commit generated code</text><rect fill="url(#gci7avktt5ru01)" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="289.5833" x="146.3542" y="910.9212"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="252.0833" x="165.1042" y="941.274">Run Build pipelines for all projects</text><rect fill="url(#gci7avktt5ru01)" height="81.1523" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="436.4583" x="72.9167" y="983.8053"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="208.3333" x="91.6667" y="1014.1581">Add docker images to Nexus</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="0" x="95.8333" y="1028.7089"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="398.9583" x="91.6667" y="1043.2597">{project-name}-{repoChecksum}-{agentVersion}:{NewVer}</text><rect fill="url(#gci7avktt5ru01)" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="153.125" x="214.5833" y="1085.791"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="115.625" x="233.3333" y="1116.1438">Deploy services</text><ellipse cx="291.1458" cy="1169.0918" rx="10.4167" ry="10.4167" style="stroke:#0568AE;stroke-width:1.5625;fill:none;"/><line style="stroke:#0568AE;stroke-width:2.604166666666667;fill:none;" x1="284.7008" x2="297.5908" y1="1162.6468" y2="1175.5368"/><line style="stroke:#0568AE;stroke-width:2.604166666666667;fill:none;" x1="297.5908" x2="284.7008" y1="1162.6468" y2="1175.5368"/><line style="stroke:#009FDB;stroke-width:1.5625;fill:none;" x1="291.1458" x2="291.1458" y1="97.8516" y2="132.2103"/><polygon fill="#009FDB" points="286.9792,121.7936,291.1458,132.2103,295.3125,121.7936,291.1458,125.9603" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="372.3958" x2="384.8958" y1="74.9674" y2="74.9674"/><polygon fill="#009FDB" points="380.7292,139.502,384.8958,149.9186,389.0625,139.502,384.8958,143.6686" style="stroke:#009FDB;stroke-width:1.5625;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="384.8958" x2="384.8958" y1="74.9674" y2="207.1777"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="384.8958" x2="291.1458" y1="207.1777" y2="207.1777"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="207.1777" y2="228.0111"/><polygon fill="#009FDB" points="286.9792,217.5944,291.1458,228.0111,295.3125,217.5944,291.1458,221.7611" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="31.25" y2="52.0833"/><polygon fill="#009FDB" points="286.9792,41.6667,291.1458,52.0833,295.3125,41.6667,291.1458,45.8333" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="280.0618" y2="300.8952"/><polygon fill="#009FDB" points="286.9792,290.4785,291.1458,300.8952,295.3125,290.4785,291.1458,294.6452" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="424.4792" x2="424.4792" y1="425.8301" y2="460.1888"/><polygon fill="#009FDB" points="420.3125,449.7721,424.4792,460.1888,428.6458,449.7721,424.4792,453.9388" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="554.6875" x2="567.1875" y1="410.2214" y2="410.2214"/><polygon fill="#009FDB" points="563.0208,504.4027,567.1875,514.8193,571.3542,504.4027,567.1875,508.5693" style="stroke:#009FDB;stroke-width:1.5625;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="567.1875" x2="567.1875" y1="410.2214" y2="609.0007"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="567.1875" x2="436.9792" y1="609.0007" y2="609.0007"/><polygon fill="#009FDB" points="447.3958,604.834,436.9792,609.0007,447.3958,613.1673,443.2292,609.0007" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="424.4792" x2="424.4792" y1="555.8919" y2="596.5007"/><polygon fill="#009FDB" points="420.3125,586.084,424.4792,596.5007,428.6458,586.084,424.4792,590.2507" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="136.4583" x2="136.4583" y1="375.3418" y2="450.8626"/><polygon fill="#009FDB" points="132.2917,440.446,136.4583,450.8626,140.625,440.446,136.4583,444.6126" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="424.4792" x2="424.4792" y1="375.3418" y2="394.6126"/><polygon fill="#009FDB" points="420.3125,384.196,424.4792,394.6126,428.6458,384.196,424.4792,388.3626" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="136.4583" x2="136.4583" y1="575.6673" y2="642.334"/><polygon fill="#009FDB" points="132.2917,631.9173,136.4583,642.334,140.625,631.9173,136.4583,636.084" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="424.4792" x2="424.4792" y1="621.5007" y2="642.334"/><polygon fill="#009FDB" points="420.3125,631.9173,424.4792,642.334,428.6458,631.9173,424.4792,636.084" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="352.946" y2="373.7793"/><polygon fill="#009FDB" points="286.9792,363.3626,291.1458,373.7793,295.3125,363.3626,291.1458,367.5293" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="643.8965" y2="663.1673"/><polygon fill="#009FDB" points="286.9792,652.7507,291.1458,663.1673,295.3125,652.7507,291.1458,656.9173" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="744.3197" y2="765.153"/><polygon fill="#009FDB" points="286.9792,754.7363,291.1458,765.153,295.3125,754.7363,291.1458,758.903" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="817.2038" y2="838.0371"/><polygon fill="#009FDB" points="286.9792,827.6204,291.1458,838.0371,295.3125,827.6204,291.1458,831.7871" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="890.0879" y2="910.9212"/><polygon fill="#009FDB" points="286.9792,900.5046,291.1458,910.9212,295.3125,900.5046,291.1458,904.6712" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="962.972" y2="983.8053"/><polygon fill="#009FDB" points="286.9792,973.3887,291.1458,983.8053,295.3125,973.3887,291.1458,977.5553" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="1064.9577" y2="1085.791"/><polygon fill="#009FDB" points="286.9792,1075.3743,291.1458,1085.791,295.3125,1075.3743,291.1458,1079.541" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="291.1458" x2="291.1458" y1="1137.8418" y2="1158.6751"/><polygon fill="#009FDB" points="286.9792,1148.2585,291.1458,1158.6751,295.3125,1148.2585,291.1458,1152.4251" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><rect fill="#F2F2F2" height="249.7721" rx="5.2083" ry="5.2083" style="stroke:#C2C2C2;stroke-width:1.0416666666666667;" width="464.5833" x="107.8125" y="1186.8001"/><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="37.5" x="130.7292" y="1222.3612">Name</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="73.9583" x="265.1042" y="1222.3612">Description</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="130.7292" y="1253.5787">{OldVer}</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="164.5833" x="260.9375" y="1253.5787">Поточна версія реєстру</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="65.625" x="130.7292" y="1284.7961">{NewVer}</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="235.4167" x="260.9375" y="1284.7961">Версія реєстру що розгортається</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="79.1667" x="130.7292" y="1316.0136">{RegName}</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="260.9375" y="1316.0136">Ім'я реєстру</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="103.125" x="130.7292" y="1347.231">{project-name}</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="284.375" x="265.1042" y="1347.231">Ім'я згенерованого проекту/репозиторію</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="113.5417" x="130.7292" y="1378.4485">{repoChecksum}</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="246.875" x="265.1042" y="1378.4485">md5sum вмісту регламенту реєстру</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="104.1667" x="130.7292" y="1409.6659">{agentVersion}</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="164.5833" x="265.1042" y="1409.6659">Версія дженкінс агента</text><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="122.3958" x2="557.8125" y1="1202.4251" y2="1202.4251"/><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="122.3958" x2="557.8125" y1="1233.6426" y2="1233.6426"/><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="122.3958" x2="557.8125" y1="1264.86" y2="1264.86"/><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="122.3958" x2="557.8125" y1="1296.0775" y2="1296.0775"/><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="122.3958" x2="557.8125" y1="1327.2949" y2="1327.2949"/><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="122.3958" x2="557.8125" y1="1358.5124" y2="1358.5124"/><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="122.3958" x2="557.8125" y1="1389.7298" y2="1389.7298"/><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="122.3958" x2="557.8125" y1="1420.9473" y2="1420.9473"/><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="122.3958" x2="122.3958" y1="1202.4251" y2="1420.9473"/><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="252.6042" x2="252.6042" y1="1202.4251" y2="1420.9473"/><line style="stroke:#5A5A5A;stroke-width:1.0416666666666667;" x1="557.8125" x2="557.8125" y1="1202.4251" y2="1420.9473"/><!--MD5=[a8b2031efa0bc91d714ec74219539c44]
+@startuml
+!theme bluegray
+start
+if (**Validate version**
+  OldVer>=NewVer) then (yes)
+  #red:ERROR;
+  kill
+endif
+:**Update DB schema**;
+:**Update Version to {NewVer} in registry metadata**;
+split
+  :**Create new**
+  **projects/codebases/repos**
+
+  //{RegName}-rest-api-{NewVer}//
+  //{RegName}-kafka-api-{NewVer}//
+  //{RegName}-model-{NewVer}//;
+split again
+  if (Exposed Search Conditions exist?) then (yes)
+    :**Create new**
+    **project/codebase/repo**
+
+    //{RegName}-soap-api-{NewVer}//;
+  endif
+end split
+:**Create new build pipelines for each project**
+
+//{project-name}//;
+:**Generate code for all projects**;
+:**Commit generated code**;
+:**Run Build pipelines for all projects**;
+:**Add docker images to Nexus**
+
+//{project-name}-{repoChecksum}-{agentVersion}:{NewVer}//;
+:**Deploy services**;
+end
+legend right
+    |Name| Description |
+    |{OldVer}|Поточна версія реєстру|
+    |{NewVer}|Версія реєстру що розгортається|
+    |{RegName}|Ім'я реєстру|
+    |{project-name}| Ім'я згенерованого проекту/репозиторію|
+    |{repoChecksum}| md5sum вмісту регламенту реєстру|
+    |{agentVersion}| Версія дженкінс агента|
+endlegend
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+
+
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            20
+skinparam ParticipantPadding     30
+skinparam BoxPadding             40
+skinparam Padding                8
+skinparam ArrowColor             #959595
+skinparam stereotype {
+    CBackgroundColor #f5f5f5
+    CBorderColor #c2c2c2
+    ABackgroundColor #c4ca33
+    ABorderColor #919700
+    IBackgroundColor #d95555
+    IBorderColor #a62222
+    EBackgroundColor #ee9033
+    EBorderColor #bb5d00
+    NBackgroundColor #3786be
+    NBorderColor #04538b
+}
+skinparam title {
+	FontColor	                 #009fdb
+	BorderColor	                 #c2c2c2
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #f5f5f5-#f2f2f2
+}
+
+
+skinparam legend {
+	BackgroundColor #f2f2f2
+	BorderColor #c2c2c2
+	FontColor #5a5a5a
+}
+
+skinparam swimlane {
+	BorderColor #0568ae
+	BorderThickness 2
+	TitleBackgroundColor  #f5f5f5-#f2f2f2
+	TitleFontColor #009fdb
+}
+
+
+skinparam activity {
+	FontColor #fff
+	BorderColor #009fdb
+	BackgroundColor #33b2e2-#009fdb
+	BarColor #b5bd00
+	StartColor #0568ae
+	EndColor #0568ae
+	DiamondBackgroundColor #f5f5f5-#c2c2c2
+  	DiamondBorderColor #c2c2c2
+	DiamondFontColor #5a5a5a
+}
+
+
+skinparam participant {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #009fdb
+	FontColor #5a5a5a
+}
+
+
+skinparam sequence {
+	BorderColor #009fdb
+	TitleFontColor #009fdb
+	BackgroundColor transparent
+	StartColor #009fdb
+	EndColor #009fdb
+	BoxBackgroundColor #d2d2d2
+	BoxBorderColor #959595
+	BoxFontColor #5a5a5a
+	LifeLineBorderColor #c2c2c2
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #f5f5f5
+	GroupBorderColor #959595
+	GroupFontColor #5a5a5a
+	GroupHeaderFontColor #0568ae
+	DividerBackgroundColor #fff-#d2d2d2
+    DividerBorderColor #959595
+    DividerBorderThickness 2
+    DividerFontColor #5a5a5a
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #959595
+	ReferenceFontColor #5a5a5a
+	ReferenceHeaderFontColor #0568ae
+}
+
+
+skinparam partition {
+	BorderColor #009fdb
+	FontColor #009fdb
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+}
+
+
+skinparam control {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam entity {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam boundary {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #3786be-#0568ae
+	BorderColor #0568ae
+	FontColor #fff
+}
+
+
+skinparam artifact {
+	BackgroundColor #fff-#d2d2d2
+	BorderColor #c2c2c2
+	FontColor #5a5a5a
+}
+
+
+skinparam component {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+}
+
+
+skinparam interface {
+	BackgroundColor  #d95555
+	BorderColor  #cf2a2a
+	FontColor #5a5a5a
+}
+
+
+skinparam storage {
+	BackgroundColor #ee9033-#ea7400
+  	BorderColor #ea7400
+	FontColor #fff
+}
+
+
+skinparam node {
+	BackgroundColor #f5f5f5-#f2f2f2
+	BorderColor #c2c2c2
+	FontColor #009fdb
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #009fdb
+}
+
+
+skinparam database {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	BorderColor #007faf
+}
+
+
+skinparam class {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	HeaderBackgroundColor #33b2e2-#009fdb
+	StereotypeFontColor #5a5a5a
+	BorderThickness 1
+	AttributeFontColor #d2d2d2
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	StereotypeFontColor #5a5a5a
+	BorderThickness 1
+	AttributeFontColor #d2d2d2
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	BorderThickness 2
+	StereotypeFontColor #009fdb
+}
+
+
+skinparam rectangle {
+		FontColor #5a5a5a
+	BorderColor #c2c2c2
+	BackgroundColor #fff-#fefefe
+	BorderThickness 2
+	StereotypeFontColor #009fdb
+}
+
+
+skinparam package {
+	FontColor #009fdb
+	BorderColor #33b2e2
+	BackgroundColor transparent
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #fff-#f5f5f5
+  	BorderColor #ea7400
+	FontColor #ea7400
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #fff-#f5f5f5
+  	BorderColor #0568ae
+	FontColor #0568ae
+	BorderThickness 2
+}
+
+
+skinparam state {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	BorderColor #007faf
+	StartColor #0568ae
+	EndColor #0568ae
+	AttributeFontColor #d2d2d2
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+}
+
+
+skinparam card {
+	BackgroundColor #3786be-#0568ae
+	BorderColor #0568ae
+	FontColor #fff
+}
+
+
+skinparam file {
+	BackgroundColor #f5f5f5-#f2f2f2
+	BorderColor #0568ae
+	FontColor #5a5a5a
+
+}
+
+
+start
+if (**Validate version**
+  OldVer>=NewVer) then (yes)
+  #red:ERROR;
+  kill
+endif
+:**Update DB schema**;
+:**Update Version to {NewVer} in registry metadata**;
+split
+  :**Create new**
+  **projects/codebases/repos**
+
+  //{RegName}-rest-api-{NewVer}//
+  //{RegName}-kafka-api-{NewVer}//
+  //{RegName}-model-{NewVer}//;
+split again
+  if (Exposed Search Conditions exist?) then (yes)
+    :**Create new**
+    **project/codebase/repo**
+
+    //{RegName}-soap-api-{NewVer}//;
+  endif
+end split
+:**Create new build pipelines for each project**
+
+//{project-name}//;
+:**Generate code for all projects**;
+:**Commit generated code**;
+:**Run Build pipelines for all projects**;
+:**Add docker images to Nexus**
+
+//{project-name}-{repoChecksum}-{agentVersion}:{NewVer}//;
+:**Deploy services**;
+end
+legend right
+    |Name| Description |
+    |{OldVer}|Поточна версія реєстру|
+    |{NewVer}|Версія реєстру що розгортається|
+    |{RegName}|Ім'я реєстру|
+    |{project-name}| Ім'я згенерованого проекту/репозиторію|
+    |{repoChecksum}| md5sum вмісту регламенту реєстру|
+    |{agentVersion}| Версія дженкінс агента|
+endlegend
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 12:40:07 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
